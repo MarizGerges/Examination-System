@@ -1,0 +1,15 @@
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\bin\Debug\net6.0\exam02 (Examination system).exe
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\bin\Debug\net6.0\exam02 (Examination system).deps.json
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\bin\Debug\net6.0\exam02 (Examination system).runtimeconfig.json
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\bin\Debug\net6.0\exam02 (Examination system).dll
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\bin\Debug\net6.0\exam02 (Examination system).pdb
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).csproj.AssemblyReference.cache
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).AssemblyInfoInputs.cache
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).AssemblyInfo.cs
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).csproj.CoreCompileInputs.cache
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).dll
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\refint\exam02 (Examination system).dll
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).pdb
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\exam02 (Examination system).genruntimeconfig.cache
+C:\Users\mariz\source\repos\exam02 (Examination system)\exam02 (Examination system)\obj\Debug\net6.0\ref\exam02 (Examination system).dll
